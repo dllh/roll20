@@ -18,10 +18,13 @@ If you specify invalid parameter values, you'll get something pretty random.
 ## Examples
 
 <p><code>!npc dwarf male</code></p>
+
 ![Image npc dwarf male](example-dwarf-male.png)
 
 <p><code>!npc tiefling</code></p>
+
 ![Image npc tiefling](example-tiefling.png)
 
 <p><code>!npc</code></p>
+
 ![Image npc](example-no-args.png)
