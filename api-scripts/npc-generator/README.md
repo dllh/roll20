@@ -27,4 +27,4 @@ If you specify invalid parameter values, you'll get something pretty random.
 
 <p><code>!npc</code></p>
 
-![Image npc](example-no-args.png)
+![Image npc](example-npc.png)
