@@ -6,7 +6,7 @@ Its intended use is the scenario in which the party loots bodies of random NPCs 
 
 Usage: <code>!treasure [hoardSize] [count]</code>
 
-Both parameters are option and will default to the value 1.
+Both parameters are optional and will default to the value 1.
 
 The <em>hoardSize</em> parameter controls the band of integer values from which a random number will be selected. It is an exponent of 10. So, a value of 1 sets the maximum value in copper pieces to 10, and random coinage values are selected from within the range up to 10. A value of 2 sets the maximum value in copper pieces to 100 (10<sup>2</sup>) and thus sets teh band of values to between 10 and 100. And so on. The more likely the NPCs are to have a lot of coins, the higher <em>hoardSize</em> should be.
 
