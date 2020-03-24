@@ -16,11 +16,11 @@ The command causes a message to be whispered to the GM giving coinage values bro
 
 ## Examples
 
-<code>!treasure 1 3</code>
+<p><code>!treasure 1 3</code></p>
 ![!treasure 1 3](example-1-3.png)
 
-<code>!treasure 2 5</code>
+<p><code>!treasure 2 5</code></p>
 ![!treasure 2 5](example-2-5.png)
 
-<code>!treasure 3 2</code>
+<p><code>!treasure 3 2</code></p>
 ![!treasure 3 2](example-3-2.png)
