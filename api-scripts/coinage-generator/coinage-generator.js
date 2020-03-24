@@ -76,7 +76,7 @@
         }
         
         function usage(){
-            sendChat('GM',`/w gm <div>Usage: <br /><code>!trasure [hoardSize] [count]</code><br />Available options:<br /><ul><li><b>hoardSize:</b> How big should the hoard be? Calculation raises ${baseCopper} to the specified power to determine the upper bound of the value in copper pieces. Defaults to 1.</li><li><b>count</b>: How many batches of treasure (e.g. how many NPCs looted?)? Defaults to 1.</li></ul></div>`);
+            sendChat('GM',`/w gm <div>Usage: <br /><code>!treasure [hoardSize] [count]</code><br />Available options:<br /><ul><li><b>hoardSize:</b> How big should the hoard be? Calculation raises ${baseCopper} to the specified power to determine the upper bound of the value in copper pieces. Defaults to 1.</li><li><b>count</b>: How many batches of treasure (e.g. how many NPCs looted?)? Defaults to 1.</li></ul></div>`);
         }
     } );
     
