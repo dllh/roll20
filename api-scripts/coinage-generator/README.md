@@ -2,7 +2,7 @@
 
 This is a random coin generator for Roll20.net that lets you specify a ballpark value and a number of NPCs to generate treasure for.
 
-Its intended use is the scenario in which the party loots bodies of random NPCs who are unlikely to have much of value other than coins (e.g. a bunch of goblins).
+Its intended use is the scenario in which the party loots bodies of random NPCs who are unlikely to have much of value other than coins (e.g. a bunch of goblins). About every tenth time, the command will also add a non-coinage item to the list, with its value proportional to the coinage value -- an NPC will not have 2cp and a potion of healing, but an NPC may have 120gp and a potion of healing.
 
 Usage: <code>!treasure [hoardSize] [count]</code>
 
