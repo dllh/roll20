@@ -4,7 +4,7 @@
 	var vendors = {
 	  'inn'	: { 
 		  'adj'  : [ 'Potent', 'Hungry', 'Sleepy', 'Resting', 'Rested', 'Green', 'Groaning', 'Happy', 'Fargone', 'Homesick', 'Somnolent', 'Graceful', 'Lusty', 'Drunken', 'Staggering', 'Filthy', 'Reeling', 'Salty', 'Frosty', 'Lucky', 'Besotted', 'Dangerous', 'Fighting', 'Thundering', 'Farting', 'Gray', 'Bitter', 'Happy', 'Sodden', 'Black', 'Gray', 'Spotted', 'Roaring', 'Pissing', 'Valiant', 'Wandering' ],
-		  'noun' : [ 'Haven', 'Hovel', 'Hostel', 'Wanderer', 'Pilgrim', 'Wayfarer', 'Soul', 'Swan', 'Sheep', 'Stag', 'Vagrant', 'Duck', 'Dog', 'Wench', 'Tankard', 'Cup', 'Mug', 'Bachelor', 'Swine', 'Widow', 'Vagabond', 'Mouse', 'Knight', 'Drunkard', 'Goat', 'Wolf', 'Arsehole', 'Lantern', 'Hornet', 'Egg', 'Pony', 'Alehouse', 'Cask', 'Bunghole', 'Crab', 'Lion' ]
+		  'noun' : [ 'Haven', 'Hovel', 'Hostel', 'Wanderer', 'Ape', 'Pilgrim', 'Wayfarer', 'Soul', 'Swan', 'Sheep', 'Stag', 'Vagrant', 'Duck', 'Dog', 'Wench', 'Tankard', 'Cup', 'Mug', 'Bachelor', 'Swine', 'Widow', 'Vagabond', 'Mouse', 'Knight', 'Drunkard', 'Goat', 'Wolf', 'Arsehole', 'Lantern', 'Hornet', 'Egg', 'Pony', 'Alehouse', 'Cask', 'Bunghole', 'Crab', 'Lion' ]
 	  },
 	  'apothecary': { 
 		  'adj'  : [ 'Cautious', 'Steady', 'Earthen', 'Rainbow', 'Poisoned', 'Burning', 'Bubbling', 'Black', 'Stone', 'Screaming', 'Lulling' ],
@@ -16,7 +16,7 @@
 	  },
 	  'stable'	: { 
 		  'adj'  : [ 'Steady', 'Trotting', 'Prancing', 'Quicksilver', 'Reliable', 'Purple', 'Well-worn', 'Seasoned', 'Charging', 'Fastest', 'Cheapest', 'Noble' ],
-		  'noun' : [ 'Mount', 'Ride', 'Cart', 'Buggy', 'Warhorse', 'Dray', 'Stable', 'Saddle', 'Hob', 'Fetlock', 'Hooves', 'Hoof', 'Wagon', 'Wheel', 'Axle' ]
+		  'noun' : [ 'Mount', 'Ride', 'Cart', 'Ass', 'Buggy', 'Warhorse', 'Dray', 'Stable', 'Saddle', 'Hob', 'Fetlock', 'Hooves', 'Hoof', 'Wagon', 'Wheel', 'Axle' ]
 	  },
 	  'clothier'  : { 
 		  'adj'  : [ 'Dandy', 'Dapper', 'Noble', 'Fancy', 'Gallant', 'Magnificent', 'Decked-Out', 'Alluring', 'Floral', 'Debonair', 'Stuffed', 'Prancing', 'Stunning' ],
